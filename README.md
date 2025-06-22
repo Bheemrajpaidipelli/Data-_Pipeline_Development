@@ -1,3 +1,5 @@
+# DATA PIPELINE DEVELOPMENT 
+COMPANY : CODTECH IT SOLUTIONS NAME : PAIDIPELLI BHEEMRAJ INTERN ID : CT06DF372 DOMAIN : DATA SCIENCE DURATION : 6 WEEKS MENTOR : NEELA SANTHOSH KUMAR
 # Problem Statement
  Created a pipeline for data preprocessing, transformation, and loading using tools like pandas and Scikit-learn.
 
